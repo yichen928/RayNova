@@ -1,4 +1,4 @@
-<div align="center">**This repo is deprecated and we will have a new repo for code release soon!**</div>
+<div align="center">This repo is deprecated and we will have a new repo for code release soon!</div>
 
 <div align="center"><img width="200" alt="logo" src="assets/logo_transparent.png" /></div>
 
