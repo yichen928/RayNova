@@ -1,6 +1,6 @@
 <div align="center"><img width="200" alt="logo" src="https://github.com/user-attachments/assets/86f307c0-ae70-41e0-a593-8af315f723cd" /></div>
 
-# RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space
+# [CVPR 2026] RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space
 <div align="center"><img width="699" height="696" alt="raynova_teaser" src="https://github.com/user-attachments/assets/a03b4d25-69a9-4352-b1cc-eb76e20422fa" /></div>
 
 ## Abstract
