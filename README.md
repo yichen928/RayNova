@@ -1,3 +1,5 @@
+**This repo is deprecated and we will have a new repo for code release soon!**
+
 <div align="center"><img width="200" alt="logo" src="assets/logo_transparent.png" /></div>
 
 # [CVPR 2026] RAYNOVA: Scale-Temporal Autoregressive World Modeling in Ray Space
